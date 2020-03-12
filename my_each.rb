@@ -7,4 +7,4 @@ end
 array
 end
 
-array
+Array
