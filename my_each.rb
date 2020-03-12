@@ -6,5 +6,3 @@ while i < array.length
 end
 array
 end
-
-Array
